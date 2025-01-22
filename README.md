@@ -12,7 +12,7 @@ Welcome to my data analysis portfolio! This repository showcases my projects in 
   - Analyzed workforce demographics across 100+ countries
   - Identified 20% gap in job satisfaction across industries
   - Automated cleaning of 15,000+ entries
-- **[View Project](link-to-project-1)**
+
 
 ### 2. Credit Card Spending & Risk Analysis
 - **Tools Used**: Power BI, SQL
@@ -21,7 +21,7 @@ Welcome to my data analysis portfolio! This repository showcases my projects in 
   - Analyzed spending patterns across 5 key demographics
   - Reduced manual analysis time by 40%
   - Enhanced user engagement by 30%
-- **[View Project](link-to-project-2)**
+
 
 ### 3. E-commerce Analytics
 - **Tools Used**: Power BI, SQL, Python
@@ -30,7 +30,7 @@ Welcome to my data analysis portfolio! This repository showcases my projects in 
   - Tracked performance across 8 regions
   - Analyzed online ($984M) vs offline ($1.42B) channels
   - Identified top revenue drivers: Cosmetics ($724M) and Office Supplies ($531M)
-- **[View Project](link-to-project-3)**
+
 
 ### 4. Pizza Chain Analytics
 - **Tools Used**: Power BI, SQL
@@ -39,7 +39,7 @@ Welcome to my data analysis portfolio! This repository showcases my projects in 
   - Engineered 12+ SQL queries for trend analysis
   - Tracked KPIs including average order value ($38.31)
   - Analyzed category performance (29.02% Classic dominance)
-- **[View Project](link-to-project-4)**
+
 
 ## 🛠️ Tools & Skills
 - **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)
